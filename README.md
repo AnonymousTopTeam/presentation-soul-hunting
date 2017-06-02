@@ -1,3 +1,5 @@
+![Presentation](https://vladpereskokov.github.io/presentation-soul-hunting/)
+
 ## PDF
 
 Ribbon could be exported to PDF by printing it from the list mode in Chrome or Opera browsers. See [printing documentation](https://github.com/shower/shower/blob/master/docs/printing-en.md) for more options.
