@@ -1,4 +1,4 @@
-![Presentation](https://vladpereskokov.github.io/presentation-soul-hunting/)
+[Presentation](https://vladpereskokov.github.io/presentation-soul-hunting/)
 
 ## PDF
 
